@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <!-- <div class="nav-count w-100">
+    <div class="nav-count w-100">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">Navbar</a>
@@ -61,7 +61,7 @@
           </div>
         </div>
       </nav>
-    </div> -->
+    </div>
     <div class="col-12">
       <form @submit.prevent="save" class="m-3 d-flex">
         <div class="mb-3 w-25 col-form-label mx-5">
